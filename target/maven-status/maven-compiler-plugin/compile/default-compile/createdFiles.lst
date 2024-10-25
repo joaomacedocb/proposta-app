@@ -1,0 +1,10 @@
+com/macedo/proposta_app/domain/Usuario.class
+com/macedo/proposta_app/mapper/PropostaMapperImpl.class
+com/macedo/proposta_app/dto/PropostaRequestDto.class
+com/macedo/proposta_app/mapper/PropostaMapper.class
+com/macedo/proposta_app/dto/PropostaResponseDto.class
+com/macedo/proposta_app/service/PropostaService.class
+com/macedo/proposta_app/domain/Proposta.class
+com/macedo/proposta_app/controller/PropostaController.class
+com/macedo/proposta_app/PropostaAppApplication.class
+com/macedo/proposta_app/repository/PropostaRepository.class

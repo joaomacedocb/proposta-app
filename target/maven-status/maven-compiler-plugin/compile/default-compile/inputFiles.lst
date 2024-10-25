@@ -1,0 +1,9 @@
+/Users/joaomacedo/java-projects/curso-microservices/proposta-app/src/main/java/com/macedo/proposta_app/repository/PropostaRepository.java
+/Users/joaomacedo/java-projects/curso-microservices/proposta-app/src/main/java/com/macedo/proposta_app/service/PropostaService.java
+/Users/joaomacedo/java-projects/curso-microservices/proposta-app/src/main/java/com/macedo/proposta_app/domain/Usuario.java
+/Users/joaomacedo/java-projects/curso-microservices/proposta-app/src/main/java/com/macedo/proposta_app/controller/PropostaController.java
+/Users/joaomacedo/java-projects/curso-microservices/proposta-app/src/main/java/com/macedo/proposta_app/dto/PropostaRequestDto.java
+/Users/joaomacedo/java-projects/curso-microservices/proposta-app/src/main/java/com/macedo/proposta_app/PropostaAppApplication.java
+/Users/joaomacedo/java-projects/curso-microservices/proposta-app/src/main/java/com/macedo/proposta_app/dto/PropostaResponseDto.java
+/Users/joaomacedo/java-projects/curso-microservices/proposta-app/src/main/java/com/macedo/proposta_app/domain/Proposta.java
+/Users/joaomacedo/java-projects/curso-microservices/proposta-app/src/main/java/com/macedo/proposta_app/mapper/PropostaMapper.java
