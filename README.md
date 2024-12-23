@@ -1,8 +1,8 @@
-📄 Microserviço de Propostas
+# 📄 Microserviço de Propostas
 
 Este repositório contém o microserviço responsável por capturar e armazenar propostas, que serão futuramente analisadas por um serviço secundário. A aplicação foi desenvolvida utilizando Java com Spring e faz uso de RabbitMQ para mensageria.
 
-📌 Funcionalidades Principais
+# 📌 Funcionalidades Principais
 
 Captura de propostas: Recebe dados das propostas enviadas pelo front-end.
 
@@ -10,7 +10,7 @@ Persistência: Armazena as propostas em banco de dados para processamento futuro
 
 Mensageria: Envia mensagens sobre as propostas para outros serviços utilizando RabbitMQ.
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
 Java: Linguagem principal para o desenvolvimento do back-end.
 
@@ -20,11 +20,11 @@ RabbitMQ: Ferramenta de mensageria para integração assíncrona entre serviços
 
 Banco de Dados Relacional PostgreSQL: Para armazenamento das propostas.
 
-🌐 Front-End
+# 🌐 Front-End
 
 O front-end deste projeto foi desenvolvido separadamente utilizando Angular, mas pode ser adaptado um front-end diferente consumindo esta API.
 
-🔄 Fluxo de Funcionamento
+# 🔄 Fluxo de Funcionamento
 
 As propostas são recebidas via requisições REST pelo microserviço.
 
@@ -32,6 +32,6 @@ As informações são armazenadas no banco de dados para consulta e análise fut
 
 Mensagens relacionadas às propostas são enviadas para uma fila no RabbitMQ, permitindo que outros serviços processem os dados de forma assíncrona.
 
-📬 Contato
+# 📬 Contato
 
 https://www.linkedin.com/in/joaomacedocb/
