@@ -18,11 +18,11 @@ Spring Framework: Base para criação de APIs REST.
 
 RabbitMQ: Ferramenta de mensageria para integração assíncrona entre serviços.
 
-Banco de Dados Relacional: Para armazenamento das propostas.
+Banco de Dados Relacional PostgreSQL: Para armazenamento das propostas.
 
 🌐 Front-End
 
-O front-end deste projeto foi desenvolvido separadamente utilizando Angular. O repositório do front-end está disponível em outro local.
+O front-end deste projeto foi desenvolvido separadamente utilizando Angular, mas pode ser adaptado um front-end diferente consumindo esta API.
 
 🔄 Fluxo de Funcionamento
 
@@ -34,4 +34,4 @@ Mensagens relacionadas às propostas são enviadas para uma fila no RabbitMQ, pe
 
 📬 Contato
 
-Para mais informações ou dúvidas, entre em contato com o responsável pelo projeto.
+https://www.linkedin.com/in/joaomacedocb/
